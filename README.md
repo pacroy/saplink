@@ -12,7 +12,7 @@ Clone or import using [abapGit](https://github.com/larshp/abapGit)
 
 ## Related Links
 
-* [SAPlink Plugins](https://gitlab.com/pacroy/sap-saplink-plugins) (abapGit Repository)
+* [SAPlink Plugins](https://github.com/pacroy/saplink-plugins) (abapGit Repository)
 
 ---
 
