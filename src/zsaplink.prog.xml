@@ -3416,186 +3416,186 @@
     <item>
      <LANGUAGE>D</LANGUAGE>
      <TEXTPOOL>
-      <TEXTPOOL>
+      <item>
        <ID>I</ID>
        <KEY>INP</KEY>
        <ENTRY>Installierte Plugins</ENTRY>
        <LENGTH>25</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>NGA</KEY>
        <ENTRY>Objekt zum Nugget hinzufügen</ENTRY>
        <LENGTH>28</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>NGC</KEY>
        <ENTRY>Neues Nugget anlegen</ENTRY>
        <LENGTH>25</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>NGI</KEY>
        <ENTRY>Nugget importieren</ENTRY>
        <LENGTH>20</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>NOI</KEY>
        <ENTRY>ist kein Plugin installiert</ENTRY>
        <LENGTH>40</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>OPT</KEY>
        <ENTRY>Optionen</ENTRY>
        <LENGTH>8</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>PLO</KEY>
        <ENTRY>Für den Objekt Type</ENTRY>
        <LENGTH>30</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>SLK</KEY>
        <ENTRY>SAPlink</ENTRY>
        <LENGTH>7</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>TB1</KEY>
        <ENTRY>Objekt</ENTRY>
        <LENGTH>7</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>I</ID>
        <KEY>TB2</KEY>
        <ENTRY>Nugget</ENTRY>
        <LENGTH>6</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>EXPORT</KEY>
-       <ENTRY>        Objekt exportieren</ENTRY>
+       <ENTRY>Objekt exportieren</ENTRY>
        <LENGTH>32</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>FILENAME</KEY>
-       <ENTRY>        SAPlink Dateiname</ENTRY>
+       <ENTRY>SAPlink Dateiname</ENTRY>
        <LENGTH>33</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>IMPORT</KEY>
-       <ENTRY>        Objekt importieren</ENTRY>
+       <ENTRY>Objekt importieren</ENTRY>
        <LENGTH>26</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NOBJNAM</KEY>
-       <ENTRY>        Objektname</ENTRY>
+       <ENTRY>Objektname</ENTRY>
        <LENGTH>19</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NOVRWR</KEY>
-       <ENTRY>        Originale überschreiben</ENTRY>
+       <ENTRY>Originale überschreiben</ENTRY>
        <LENGTH>31</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NPLUGIN</KEY>
-       <ENTRY>        Objekttyp</ENTRY>
+       <ENTRY>Objekttyp</ENTRY>
        <LENGTH>19</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGA</KEY>
-       <ENTRY>        Zum Nugget hinzufügen</ENTRY>
+       <ENTRY>Zum Nugget hinzufügen</ENTRY>
        <LENGTH>29</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGC</KEY>
-       <ENTRY>        Neues Nugget anlegen</ENTRY>
+       <ENTRY>Neues Nugget anlegen</ENTRY>
        <LENGTH>28</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGD</KEY>
-       <ENTRY>        Objekte des Nuggets anzeigen</ENTRY>
+       <ENTRY>Objekte des Nuggets anzeigen</ENTRY>
        <LENGTH>36</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGFILE</KEY>
-       <ENTRY>        Nugget Dateiname</ENTRY>
+       <ENTRY>Nugget Dateiname</ENTRY>
        <LENGTH>32</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGGNAM</KEY>
-       <ENTRY>        Nuggetname</ENTRY>
+       <ENTRY>Nuggetname</ENTRY>
        <LENGTH>19</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGI</KEY>
-       <ENTRY>        Nugget importieren</ENTRY>
+       <ENTRY>Nugget importieren</ENTRY>
        <LENGTH>26</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGP</KEY>
-       <ENTRY>        Fügen Sie Paket Nugget hinzu</ENTRY>
+       <ENTRY>Fügen Sie Paket Nugget hinzu</ENTRY>
        <LENGTH>36</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>NUGR</KEY>
-       <ENTRY>        Objekte aus Transport hinzuf.</ENTRY>
+       <ENTRY>Objekte aus Transport hinzuf.</ENTRY>
        <LENGTH>37</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>OBJNAME</KEY>
-       <ENTRY>        Objektname</ENTRY>
+       <ENTRY>Objektname</ENTRY>
        <LENGTH>19</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>OVERWR</KEY>
-       <ENTRY>        Originale überschreiben</ENTRY>
+       <ENTRY>Originale überschreiben</ENTRY>
        <LENGTH>31</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>PACKAGE</KEY>
-       <ENTRY>        Paket Name</ENTRY>
+       <ENTRY>Paket Name</ENTRY>
        <LENGTH>20</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>PLUGIN</KEY>
-       <ENTRY>        Objekttyp</ENTRY>
+       <ENTRY>Objekttyp</ENTRY>
        <LENGTH>19</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>REQNUGG</KEY>
-       <ENTRY>        Transport Nummer</ENTRY>
+       <ENTRY>Transport Nummer</ENTRY>
        <LENGTH>24</LENGTH>
-      </TEXTPOOL>
-      <TEXTPOOL>
+      </item>
+      <item>
        <ID>S</ID>
        <KEY>SLPKG</KEY>
-       <ENTRY>        Paket Name</ENTRY>
+       <ENTRY>Paket Name</ENTRY>
        <LENGTH>20</LENGTH>
-      </TEXTPOOL>
+      </item>
      </TEXTPOOL>
     </item>
    </I18N_TPOOL>
